@@ -1,4 +1,4 @@
-From Yi Cheng
+From Yi Chen
 
 To use this code, first make sure fastjet and root are both setupped
 (including fastjet-contrib)
